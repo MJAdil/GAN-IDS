@@ -1,0 +1,49 @@
+LSTM IDS MODEL EVALUATION RESULTS
+==================================================
+
+Data Configuration: Real + Synthetic
+Training Time: 3.0 minutes
+Overall Accuracy: 1.0000 (100.00%)
+
+DETAILED CLASSIFICATION REPORT:
+----------------------------------------
+
+normal:
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-Score: 1.0000
+  Support: 15809.0
+
+DoS:
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-Score: 1.0000
+  Support: 11075.0
+
+Probe:
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-Score: 1.0000
+  Support: 3014.0
+
+R2L:
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-Score: 1.0000
+  Support: 1774.0
+
+U2R:
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-Score: 1.0000
+  Support: 1022.0
+
+MACRO AVERAGE:
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-Score: 1.0000
+
+WEIGHTED AVERAGE:
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-Score: 1.0000
